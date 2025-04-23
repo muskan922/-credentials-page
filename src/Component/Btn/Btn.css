@@ -1,0 +1,18 @@
+#btn{
+    border: 2px solid rgb(243, 241, 241);
+    border-radius:7px ;
+    margin: 20px;
+    padding: 5px 0;
+
+}
+#btn>span{
+   padding: 5px 30px;
+
+}
+#btn>span:hover{
+    background-image:linear-gradient(rgb(81, 81, 214),rgb(23, 23, 116)) ;
+    border-radius:7px ;
+  
+    
+
+}

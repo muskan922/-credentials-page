@@ -1,0 +1,10 @@
+input{
+    background-color:white;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 195px;
+    display: block;
+    border-radius: 7px;
+    border: gainsboro solid 1px;
+}

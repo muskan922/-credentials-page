@@ -1,0 +1,9 @@
+#Card{
+    background-color: rgb(255, 255, 255);
+    height: 320px;
+    width: 250px;
+    font-size: 15px;
+    border-radius: 8px;
+    float: left;
+    margin-left: 20px;
+  }
